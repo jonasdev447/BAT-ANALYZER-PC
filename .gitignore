@@ -1,0 +1,6 @@
+batanalyzer_*.json
+batanalyzer_fotos/
+batanalyzer_documentos/
+__pycache__/
+.venv/
+*.tmp
