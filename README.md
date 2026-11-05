@@ -1,4 +1,4 @@
-# 🦇 BAT-ANALYZER PC — Sistema de Investigação Genealógica
+# 🦇 BAT-ANALYZER PC Python — Sistema de Investigação Genealógica
 
 > **Desenvolvido por Jonas de Campos | DarkblueDev**
 > Tema inspirado no Batcomputador — Painel de Controle Genealógico
